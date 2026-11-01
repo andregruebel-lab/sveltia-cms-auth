@@ -1,3 +1,10 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+
+# Im Cloudflare-Dashboard gesetzte Variablen (z. B. GITHUB_CLIENT_ID) bei einem Deploy nicht löschen.
+keep_vars = true
+
+[vars]
+# Nur diese Seite darf den Login-Dienst benutzen (Hostname der Seite, ohne https://).
+ALLOWED_DOMAINS = "angie-portfolio.andregruebel.workers.dev"
