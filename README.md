@@ -1,3 +1,5 @@
+> **Hinweis zu dieser Kopie (andregruebel-lab):** Für den Cloudflare-Build wurden `pnpm-workspace.yaml` entfernt und eine passende `pnpm-lock.yaml` (pnpm 9.10) mit nur `wrangler` als Abhängigkeit ergänzt. `src/index.js` ist unverändert gegenüber dem Original (sveltia/sveltia-cms-auth).
+
 # Sveltia CMS Authenticator
 
 This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows [Sveltia CMS](https://sveltiacms.app/en/) users to authenticate with [GitHub](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps).
