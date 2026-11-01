@@ -7,4 +7,4 @@ keep_vars = true
 
 [vars]
 # Nur diese Seite darf den Login-Dienst benutzen (Hostname der Seite, ohne https://).
-ALLOWED_DOMAINS = "angie-portfolio.andregruebel.workers.dev"
+ALLOWED_DOMAINS = "angie-portfolio.agwebsites.workers.dev"
