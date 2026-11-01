@@ -1,4 +1,4 @@
-> **Hinweis zu dieser Kopie (andregruebel-lab):** Für den Cloudflare-Build wurden `pnpm-workspace.yaml` entfernt und eine passende `pnpm-lock.yaml` (pnpm 9.10) mit nur `wrangler` als Abhängigkeit ergänzt. `src/index.js` ist unverändert gegenüber dem Original (sveltia/sveltia-cms-auth).
+> **Hinweis zu dieser Kopie:** Für den Cloudflare-Build wurden `pnpm-workspace.yaml` entfernt und eine passende `pnpm-lock.yaml` (pnpm 9.10) mit nur `wrangler` als Abhängigkeit ergänzt. `src/index.js` ist unverändert gegenüber dem Original (sveltia/sveltia-cms-auth).
 
 # Sveltia CMS Authenticator
 
